@@ -17,11 +17,11 @@ const slides = [
 	}
 ]
 
-// Sélection des flèches
+
 const leftArrow = document.querySelector(".arrow_left");
 const rightArrow = document.querySelector(".arrow_right");
 
-// Sélection du conteneur des dots
+
 const dotsContainer = document.querySelector(".dots");
 
 // Génère un dot pour chaque slide
